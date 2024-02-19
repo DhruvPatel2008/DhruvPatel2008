@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img align="left" src="https://github.com/DhruvPatel2008/temp/blob/main/tem/dhruv.gif" width="300" height="auto">
+ <img width="300" src="https://github.com/DhruvPatel2008/temp/blob/main/tem/dhruv.gif" align="right">
 </p>
 
 ### 💫About Me:
