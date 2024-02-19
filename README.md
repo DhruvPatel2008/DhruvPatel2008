@@ -10,9 +10,13 @@
 
 ### 💫About Me:
 - 🔭I’m currently working on Node.js Projects
+  
 - 🌱 I’m currently learning Node.js
-- 📫 How to reach me dhruv20820ikigai@gmail.com 
+  
+- 📫 How to reach me dhruv20820ikigai@gmail.com
+   
 - ⚡ Code ninja with a philosophical twist
+  
 -🌐 See my portfolio
 
 ### Tech Stack:
