@@ -4,7 +4,7 @@
 ## A passionate developer from Canada
 
 
-<p align="center">
+<p align="right">
  <img width="300" src="https://github.com/DhruvPatel2008/temp/blob/main/tem/dhruv.gif" align="right">
 </p>
 
