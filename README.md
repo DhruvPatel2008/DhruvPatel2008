@@ -3,6 +3,11 @@
 # Hi👋, I'm Dhruv Patel
 ## A passionate developer from Canada
 
+
+<p align="center">
+  <img align="left" src="https://github.com/DhruvPatel2008/temp/blob/main/tem/dhruv.gif" width="150">
+</p>
+
 ### 💫About Me:
 - 🔭I’m currently working on Node.js Projects
 - 🌱 I’m currently learning Node.js
