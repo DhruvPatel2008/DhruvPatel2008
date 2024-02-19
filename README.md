@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/DhruvPatel2008/temp/blob/main/tem/DHRUV%20banner.gif)
 
 # Hi👋, I'm Dhruv Patel
-## A passionate developer from Dhruv Patel
+## A passionate developer from Canada
 
 ### 💫About Me:
 - 🔭I’m currently working on Node.js Projects
